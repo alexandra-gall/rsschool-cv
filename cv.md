@@ -41,20 +41,15 @@ Period | Experience
 _Position_ | Junior JavaScript Developer
 _Responsibilities_ |
 _Technical Summary_ |
- |
 ***From 01.2015 year - to 06.2019 year*** | ***LLC DS Group***
 _Position_ | Lead Engineer
 _Responsibilities_ | Work with suppliers, conducting transactions with the client from the presentation of the product to the conclusion of the contract, participation in tenders, after-sales service. Work with CAD nanoCAD: software presentations, installation, technical support, training, pilot projects with a client.
- |
 ***From 03.2013 year - to 01.2015 year*** | ***NSS CJSC***
 _Position_ | Specialist of the Department of Economic Security
 _Responsibilities_ | Identification and prevention of actions that carry financial risks for the company.
- |
 ***From 03.2011 year - to 02.2013 year*** | ***NSS CJSC***
 _Position_ | Helpdesk Specialist
 _Responsibilities_ | Customer service by phone, resolving issues related to mobile communications. Teaching new employees the basics of phone communication.
- |
 ***From 06.2010 year - to 02.2011 year*** | ***CSoft NN LLC***
 _Position_ | Engineer of Industrial and civil engineering 
 _Responsibilities_ | Work with CAD AutoCAD. Presentations, technical support, training.
- |
