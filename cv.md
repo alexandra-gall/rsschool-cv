@@ -107,5 +107,7 @@ English – Intermediate
 #### Additional information
 
 Driving license category B.
+
 Teaching experience (taught courses on the basics of working with CAD systems).
+
 Have a foreign passport.
