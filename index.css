@@ -1,12 +1,15 @@
 body {
   margin: auto;
   min-width: 960px;
-  max-width: 1024px;
-  font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+  font-family: 'Montserrat', 'Helvetica', 'Arial', sans-serif;
   font-size: 18px;
   line-height: 32px;
   color: #3e0161;
-  background: url("img/bg_header.jpg"), linear-gradient(#e1f5fe, #039be5);
+  background: linear-gradient(#c1dbe7, #037db9);
+}
+
+.wrapper {
+  background: url('img/bg_header.jpg');
   background-repeat: no-repeat;
   background-size: 100%;
 }
@@ -27,6 +30,10 @@ body {
   text-align: right;
 }
 
+.contacts {
+  list-style-type: none;
+}
+
 .page-header a,
 .page-footer a {
   margin-left: 56px;
@@ -43,13 +50,13 @@ a:hover {
 .header-email,
 .footer-email {
   padding-left: 30px;
-  background-image: url("img/icon-email.svg");
+  background-image: url('img/icon-email.svg');
 }
 
 .header-phone,
 .footer-phone {
   padding-left: 30px;
-  background-image: url("img/icon-phone.svg");
+  background-image: url('img/icon-phone.svg');
 }
 
 .hero-image .container {
@@ -59,7 +66,7 @@ a:hover {
 
 .heading {
   margin: 0 auto;
-  font-family: "Old Standard TT", "Times", "Times New Roman", serif;
+  font-family: 'Old Standard TT', 'Times', 'Times New Roman', serif;
   font-size: 88px;
   line-height: 96px;
   font-weight: 400;
@@ -78,7 +85,7 @@ a:hover {
 
 .subheading {
   margin: 0 0 56px;
-  font-family: "Old Standard TT", "Times", "Times New Roman", serif;
+  font-family: 'Old Standard TT', 'Times', 'Times New Roman', serif;
   font-size: 64px;
   line-height: 80px;
   font-weight: 400;
@@ -86,12 +93,16 @@ a:hover {
 }
 
 .expertise h3,
-.experience h3 {
+.certificates h3 {
   margin: 0 0 12px;
   font-size: 28px;
   line-height: 40px;
   font-weight: 500;
   text-align: center;
+}
+
+.js {
+  text-align: left;
 }
 
 table {
@@ -113,7 +124,6 @@ td {
 
 .period {
   border: 3px solid #29063d;
-
   font-size: 20px;
   font-style: italic;
   line-height: 30px;
@@ -123,7 +133,8 @@ td {
 
 .education h2,
 .certificates h2,
-.additional-info h2 {
+.additional-info h2,
+.languages h2 {
   margin: 50px 0 50px;
 }
 
