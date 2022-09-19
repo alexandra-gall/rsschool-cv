@@ -49,14 +49,10 @@ I am a Frontend Developer with experience of building reliable web applications.
 #### Code examples
 
 ```javascript
-function Button({ title, onClick }) {
-  const onMyClick = (title) => {
-    console.log('clicked ', title);
-    if (onClick) {
-      onClick();
-    }
-  };
-  return <button onClick={(title) => onMyClick(title)}>{title}</button>;
+function validPass(password){
+  const hasSymbol = /[_\W]/.test(password);
+  const isLength = password.length > 3 && password.length < 21;
+  return isLength && !hasSymbol && password.match(/(?=.*[0-9])(?=.*[a-z])/i) ? 'VALID' : 'INVALID';
 }
 ```
 
