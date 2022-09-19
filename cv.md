@@ -1,23 +1,17 @@
-# Alexandra Ligacheva
+# ALEXANDRA LIGACHEVA
 
-### JavaScript developer
+### FRONTEND DEVELOPER
 
 #### Contact information
 
-- Email alexandra-gall@mail.ru
-- Phone +7 905 014 05 58
+- Email al.ligacheva@gmail.com
+- Phone +381 61 63 12 883
 - Telegram alexandra_ligacheva
+- [LinkedIn](https://www.linkedin.com/in/alexandra-ligacheva-a050921a8/)
 
 #### Summary
 
-I decided to change my profession three years ago. I took an annual course "Software Development" at the Nizhny Novgorod Institute of Information Technology where I learnt C, Java, JavaScript, Python and Unix.
-Now I work as a JavaScript developer and continue to study web technologies.
-I have ten years of experience in IT and Telecom:
-
-- A year and a half of experience as a JavaScript developer
-- Four years of experience as a lead engineer
-- Four years of experience in Telecom (two years as Specialist of the Department of Economic Security, two years as specialist of the help desk)
-- Engineering background
+I am a Frontend Developer with experience of building reliable web applications. I am responsible and pedantic, always try to understand all the subtleties. I like to learn new information and always improve my knowledge in technologies. I suppose that I have high communication skills level so I`ll be able to socialize with any customers and easily become the part of any team.
 
 #### Expertise
 
@@ -34,12 +28,17 @@ I have ten years of experience in IT and Telecom:
 
 ##### Technologies, frameworks, standards, libraries:
 
-- JavaScript: ES6 and higher.
-- TypeScript.
-- JavaScript frameworks, standards: React, Redux, thunk, Axios, reselect, atlaskit, React DnD, react-beautiful-dnd, Node.js, Express.
-- HTML, CSS, Material UI, atlaskit, Bootstrap.
-- Databases: MongoDB, MySql.
-- Utilities/tools: Git, SVN, Jira.
+- TypeScript, JavaScript;
+- React, Redux, react-router, reselect, redux-form;
+- Axios, redux-saga, Thunk;
+- Mobx, RxJS;
+- React-storybook, react-select;
+- React-beautiful-dnd, React DnD;
+- Styled components, LESS;
+- Jest, react-testing library;
+- Webpack, babel;
+- Version Control: Git, SVN;
+- Software Engineering Management: JIRA, TFS.
 
 ##### Development environments:
 
@@ -63,24 +62,22 @@ function Button({ title, onClick }) {
 
 #### Professional experience
 
-| Period                                    | Experience                                                                                                                                                                                                                                                                                                  |
-| ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **_From 08.2019 - up to now_**            | **_LLC Artezio_**                                                                                                                                                                                                                                                                                           |
-| _Position_                                | JavaScript Developer                                                                                                                                                                                                                                                                                        |
-| _Responsibilities_                        | Frontend application development                                                                                                                                                                                                                                                                            |
-| _Technical Summary_                       | React, Redux, Atlaskit UI library, axios, thunk, React DnD, react-beautiful-dnd, reselect, SVN                                                                                                                                                                                                              |
-| **_From 01.2015 year - to 06.2019 year_** | **_LLC DS Group_**                                                                                                                                                                                                                                                                                          |
-| _Position_                                | Lead Engineer                                                                                                                                                                                                                                                                                               |
-| _Responsibilities_                        | Work with suppliers, conducting transactions with the client from the presentation of the product to the conclusion of the contract, participation in tenders, after-sales service. Work with CAD nanoCAD: software presentations, installation, technical support, training, pilot projects with a client. |
-| **_From 03.2013 year - to 01.2015 year_** | **_NSS CJSC_**                                                                                                                                                                                                                                                                                              |
-| _Position_                                | Specialist of the Department of Economic Security                                                                                                                                                                                                                                                           |
-| _Responsibilities_                        | Identification and prevention of actions that carry financial risks for the company.                                                                                                                                                                                                                        |
-| **_From 03.2011 year - to 02.2013 year_** | **_NSS CJSC_**                                                                                                                                                                                                                                                                                              |
-| _Position_                                | Helpdesk Specialist                                                                                                                                                                                                                                                                                         |
-| _Responsibilities_                        | Customer service by phone, resolving issues related to mobile communications. Teaching new employees the basics of phone communication.                                                                                                                                                                     |
-| **_From 06.2010 year - to 02.2011 year_** | **_CSoft NN LLC_**                                                                                                                                                                                                                                                                                          |
-| _Position_                                | Engineer of Industrial and civil engineering                                                                                                                                                                                                                                                                |
-| _Responsibilities_                        | Work with CAD AutoCAD. Presentations, technical support, training.                                                                                                                                                                                                                                          |
+| Period                                    | Experience                                                                                                                                                                                                                                                                                                                                                                                      |
+|-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **_From 07.2022 - up to now_**            | **_ROKO Labs_**                                                                                                                                                                                                                                                                                                                                                                                 |
+| _Position_                                | FrontEnd Web Developer                                                                                                                                                                                                                                                                                                                                                                          |
+| **_From 05.2021 year - to 07.2022 year_** | **_OpenDev_**                                                                                                                                                                                                                                                                                                                                                                                   |
+| _Position_                                | FrontEnd Web Developer                                                                                                                                                                                                                                                                                                                                                                          |
+| _Customer_                                | Bank                                                                                                                                                                                                                                                                                                                                                                                            |
+| _Project_                                 | Bank web-portal for business clients. Work in payments’ team with high-loaded functionality (every-day payments, statements, etc)                                                                                                                                                                                                                                                               |
+| _Tasks performed_                         | Create new features for clients (new pages and tabs with actual information about finances). <br/>  Implement new forms with redux-form. <br/> Add new UI-components to UI-kit. <br/> Refactor legacy components.                                                                                                                                                                               |
+| _Environment_                             | TypeScript <br/> React (hooks and components), Redux, Reselect <br/> Axios, Saga<br/>    Redux-form<br/> Styled components, LESS <br/>  GitLab                                                                                                                                                                                                                                                  |
+| **_From 08.2019 year - to 05.2021 year_** | **_Artezio_**                                                                                                                                                                                                                                                                                                                                                                                   |
+| _Position_                                | FrontEnd Developer                                                                                                                                                                                                                                                                                                                                                                              |
+| _Customer_                                | Artezio                                                                                                                                                                                                                                                                                                                                                                                         |
+| _Project_                                 | Plugin for JIRA. The plugin that allows you to create your own boards using tasks’ filters and projects, plan sprints and work according to the Agile methodology in two cases – ether using boards like Scrum or Kanban.                                                                                                                                                                       |
+| _Tasks performed_                         | Create new functionality for moving issues between different groups, sprints and backlog using drag & drop.<br/>  Improve and simplificate inline issue's editing, add permissions. <br/> Research and select new libraries to optimize the performance of the plugin for a large number of issues. <br/> Move to a new drag & drop library specialized in working with large lists and boards. |
+| _Environment_                             | React, Redux, Reselect <br/>  Axios, Thunk<br/>  Atlaskit UI library <br/> React DnD, react-beautiful-dnd <br/> Git, SVN                                                                                                                                                                                                                                                                        |
 
 #### Educational background
 
@@ -102,12 +99,6 @@ Training at the Nizhny Novgorod Institute of Information Technology, Course "Sof
 
 #### Languages
 
-English – Intermediate
-
-#### Additional information
-
-Driving license category B.
-
-Teaching experience (taught courses on the basics of working with CAD systems).
-
-Have a foreign passport.
+- English – Intermediate
+- Russian - Native
+- Serbian - Beginner
